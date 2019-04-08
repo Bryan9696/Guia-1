@@ -9,14 +9,9 @@ de una manera mas facil estos sitios web.
 <ul>
 	<li>
 		Entender y organizar de una mejor manera los sitios de web en Internet creando 
-		sitios web aplicando estándares actuales que son muy sencilas de utilizar.
-
-		
-		</li>
-		<li>
+		sitios web aplicando estándares actuales que son muy sencilas de utilizar.</li>
+	
+	<li>
 		Desarrollar aplicaciones web interactivas y amigables al usuario, para que asi no 
-		se le haga complicado manejarlo.
-		
-		
-		</li>
+		se le haga complicado manejarlo. </li>
 	</ul>
