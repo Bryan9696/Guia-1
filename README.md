@@ -1,0 +1,94 @@
+# Practica01-Miblog
+
+<!DOCTYPE html>
+<html lang="es">
+
+ <head>
+  <meta charset="utf-8">
+  <title>Deportes</title>
+   </head>
+    
+    
+     <nav>
+    
+  
+    <a href="index%202.html">Los mejores 3 mejores jugadores del mundo</a>
+    <br />
+    <a href="index%203.html">UEFA Champios League</a>
+    <br />
+    <a href="index%204.html">Tabla de Posiciones de La liga Santander</a>
+    <br />
+    <a href="index%205.html">Liga Femenina de Futbol</a>
+    <br />
+                
+            </nav>
+
+
+
+     
+  <div id="contenedor"> 
+  
+   <header>
+   <img src="images/Encabezado.jpeg" alt="Logotipo" width="270" height="140">
+    <h1>Futbolaso: noticias</h1>
+	
+
+    </header>
+  
+   
+    <article>
+        <h2><small>Informacion</small></h2>
+	 
+        <img src="images/jugadores.jpg"  width="270" height="170">
+        
+        <p>Futbolaso  es una pagina dedicada única y exclusivamente al deporte que mas nos apasiona el futbol, con noticias actualizadas y todo lo que sucede 
+          en en el mundo del futbol. Nuestros lectores podran comentar sus opiniones, dudas o sugerencias en nuestros  foros sobre distintos temas. También encontraras
+          pequeños juegos , con los cuales podras pasar el rato y apoyarnos probando nuestros juegos. Bienvenidos todos.
+     </p>
+
+   
+	  
+    </article>
+	
+	<article>
+	 <h2>
+	 La liga Santander </h2>
+          <img src="images/copa.jpg"  width="270" height="170">
+	 
+        <p><u> La liga Santander</u> es una de las competiciones mas importantes  a nivel mundial  donde se dio uno de los partidos mas vistos de esta jornada el cual fue Barcelona vs Atletico de Madrid donde Luis Suárez y Messi, los delanteros que hoy dan sentido al fútbol del Barça, jugadores que ponen el punto y final con su pegada y clase al juego de un colectivo paciente y solidario, sellaron prácticamente el título de Liga. Muy pocas veces ha habido un equipo tan previsible y también tan regular como el de Valverde. Las victorias caen siempre al final, después de una larga espera y desgaste, y de la misma manera, incluso ante el desafiante Atlético de Simeone.
+	 </p>
+	 
+	</article>
+	
+          
+   
+            
+       <aside >
+    <h3> De tu interes</h3>
+	 <p>
+	 <a href="https://www.elespectador.com/deportes/otros-deportes/calendario-de-los-grandes-eventos-deportivos-de-2019-articulo-831788" target="_blank">Grandes eventos deportivos.</a>
+	 </p>
+     <p>
+	 <a href="https://www.marca.com/futbol/primera-division/calendario.html" target="_blank">Proximos partidos de La Liga</a>
+	 </p>
+     <p>
+	 <a href="https://www.marca.com/futbol/primera-division/pichichi.html" target="_blank">Ranking goleadores 2018-2019</a>
+	 </p>	 
+
+           </aside>   
+         
+	 <div>   
+        <a href="mailto:bpintadoy@est.ups.edu.ec?subject=Questions">Correo </a>
+        <a>&nbsp;</a>
+        <a href="tel:0960762529">Telefono </a>
+        </div> 
+   <footer>
+       
+       <div> id=  "copyright">Universidad Politecnica Salesiana <br />
+           Página creada por Bryan Pintado  &copy;  Todos los derechos reservados </div>
+        
+        
+   </footer>
+    </div>
+ </body>
+</html>
