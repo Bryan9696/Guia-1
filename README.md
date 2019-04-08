@@ -6,12 +6,10 @@ de publicidad efectivo o tambien medios de contactos virtuales, donde podemos en
 de una manera mas facil estos sitios web.
 
 <h1> Objetivos <h1>
-<ul>
+
 	<li>
 		Entender y organizar de una mejor manera los sitios de web en Internet creando 
-		sitios web aplicando estándares actuales que son muy sencilas de utilizar.</li>
-	
-	<li>
-		Desarrollar aplicaciones web interactivas y amigables al usuario, para que asi no 
+		sitios web aplicando estándares actuales que son muy sencilas de utilizar.
+		
+		<li> Desarrollar aplicaciones web interactivas y amigables al usuario, para que asi no 
 		se le haga complicado manejarlo. </li>
-	</ul>
